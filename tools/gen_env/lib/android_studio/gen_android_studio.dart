@@ -8,7 +8,7 @@ import 'package:xml/xml.dart';
 import '../common/index.dart';
 import 'conf_skeleton.dart';
 
-final List<String> flutterCommands = ['run', 'release', 'profile'];
+final List<String> flutterCommands = ['run', 'release'];
 final List<String> makefileCommands = ['gen_env', 'sync', 'dart_code_metrics', 'update_app_icon', 'update_splash', 'remove_splash'];
 
 class AndroidStudioEnvGenerator {

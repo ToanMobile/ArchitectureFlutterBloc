@@ -16,7 +16,7 @@ const runConfigSkeletonXml =
 const makeConfigSkeletonXml =
 '''<configuration name="Make Sync" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile">
   <makefile filename="\$PROJECT_DIR\$/makefile" target="sync" workingDirectory="" arguments="">
-  <envs />
+  <ends />
   </makefile>
   <method v="2" />
 </configuration>''';

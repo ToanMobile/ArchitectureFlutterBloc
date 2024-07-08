@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "221475637520",
+    "project_id": "officereader-ffa7e",
+    "storage_bucket": "officereader-ffa7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221475637520:android:ead7aab823eccee52bbd95",
+        "android_client_info": {
+          "package_name": "com.tech.lead.smart.office.officereader"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe9LUcfc4t4Dw3N3mAKBWea-HRU2hbbuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

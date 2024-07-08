@@ -12,7 +12,7 @@ const flavorsList = [
     prefix: 'DEV',
     envPath: './env/develop.env',
   ),
-  Flavor(
+  /*Flavor(
     flavorEnum: FlavorsEnum.qa,
     name: 'qa',
     prefix: 'QA',
@@ -23,7 +23,7 @@ const flavorsList = [
     name: 'staging',
     prefix: 'STG',
     envPath: './env/staging.env',
-  ),
+  ),*/
   Flavor(
     flavorEnum: FlavorsEnum.production,
     name: 'production',

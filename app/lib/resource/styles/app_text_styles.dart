@@ -11,7 +11,7 @@ class AppTextStyles {
   AppTextStyles._();
   static const _defaultLetterSpacing = 0.03;
 
-  static const _baseTextStyle = TextStyle(
+  static final _baseTextStyle = TextStyle(
     letterSpacing: _defaultLetterSpacing,
     // height: 1.0,
   );

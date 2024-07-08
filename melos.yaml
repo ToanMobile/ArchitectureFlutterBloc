@@ -1,8 +1,8 @@
-name: basecleanflutter
+name: OfficeReader
 
 packages:
   - ./**
-  - package/**
+  - packages/**
 
 command:
   bootstrap:

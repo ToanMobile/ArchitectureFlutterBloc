@@ -3,7 +3,7 @@ declare -A version_maps
 echo "${ZSH_VERSION}"
 parent_path=$( cd "$(dirname "${(%):-%N}")" ; pwd -P ) # nals_flutter_project_template/tools
 root_project_path=$(dirname $parent_path)
-root_project_package_path="$(dirname $parent_path)/package"
+root_project_package_path="$(dirname $parent_path)/packages"
 # echo $root_project_path
 
 pubspec_versions_path="$root_project_path/pub_versions.yaml"
